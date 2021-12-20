@@ -3,7 +3,7 @@
 ## What is a dapp
 A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface. On Ethereum, smart contracts are accessible and transparent – like open APIs – so your dapp can even include a smart contract that someone else has written.
 
-# Definition of a dapp
+## Definition of a dapp
 
 A dapp has its backend code running on a decentralized peer-to-peer network. Contrast this with an app where the backend code is running on centralized servers.
 
@@ -14,13 +14,13 @@ A dapp can have frontend code and user interfaces written in any language (just 
 **Turing complete** - dapps can perform any action given the required resources</br>
 **Isolated** - dapps are executed in a virtual environment known as Ethereum Virtual Machine so that if the smart contract has a bug, it won’t hamper the normal        functioning of the blockchain network
 
-# On smart contracts
+## On smart contracts
 
 To introduce dapps, we need to introduce smart contracts – a dapp's backend for lack of a better term. For a detailed overview, head to our section on smart contracts.
 
 A smart contract is code that lives on the Ethereum blockchain and runs exactly as programmed. Once smart contracts are deployed on the network you can't change them. Dapps can be decentralized because they are controlled by the logic written into the contract, not an individual or company. This also means you need to design your contracts very carefully and test them thoroughly.
 
-# Benefits of dapp development
+## Benefits of dapp development
 
 **Zero downtime** – Once the smart contract is deployed and on the blockchain, the network as a whole will always be able to serve clients looking to interact with the contract. Malicious actors, therefore, cannot launch denial-of-service attacks targeted towards individual dapps.<br>
 **Privacy** – You don’t need to provide real-world identity to deploy or interact with a dapp.<br>
